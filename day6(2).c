@@ -3,11 +3,11 @@
 int main() {
     int num;
 
-    // asking the user for input
+    
     printf("Enter an integer : ");
     scanf("%d", &num);
 
-    // nested if else
+    
     if (num >= 0) {
         if (num == 0) {
             printf("The number is Zero\n");
