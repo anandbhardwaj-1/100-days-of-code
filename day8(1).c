@@ -1,4 +1,4 @@
-// Q15: Program to check the type of a character.
+// Program to check the type of a character.
 #include <stdio.h>
 #include <ctype.h>
 
