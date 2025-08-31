@@ -1,4 +1,4 @@
-// Q16: Program to find the largest of three numbers.
+// Program to find the largest of three numbers.
 #include <stdio.h>
 
 int main() {
